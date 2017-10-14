@@ -1,4 +1,4 @@
-# Rails-Common-Gems
+﻿# Rails-Common-Gems
 En este repositorio se pueden encontrar los links que conducirán a los repositorios de las gemas: CarrierWave, Will Paginate, Wicked PDF, OmniAuth.
 
 * Link de CarrierWave:
@@ -11,6 +11,7 @@ https://github.com/miaborjaac/will_paginate_is2
 
 
 * Link de OmniAuth:
+https://github.com/CamiloRueda/EjemploOmniAuth.git
 
 
 ### Integrantes: Miguel Andrés Villamil, Miguel Ángel Borja, Santiago Márquez, Cristian Camilo Rueda.
