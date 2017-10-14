@@ -5,7 +5,7 @@ En este repositorio se pueden encontrar los links que conducirán a los reposito
 
 
 * Link de Will Paginate:
-
+https://github.com/miaborjaac/will_paginate_is2
 
 * Link de Wicked PDF:
 
