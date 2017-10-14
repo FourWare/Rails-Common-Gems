@@ -2,7 +2,7 @@
 En este repositorio se pueden encontrar los links que conducirán a los repositorios de las gemas: CarrierWave, Will Paginate, Wicked PDF, OmniAuth.
 
 * Link de CarrierWave:
-
+https://github.com/miavillamilca/CarrierWave-example
 
 * Link de Will Paginate:
 https://github.com/miaborjaac/will_paginate_is2
