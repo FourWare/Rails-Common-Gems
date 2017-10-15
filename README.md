@@ -8,7 +8,7 @@ https://github.com/miavillamilca/CarrierWave-example
 https://github.com/miaborjaac/will_paginate_is2
 
 * Link de Wicked PDF:
-
+https://github.com/smarquezo/Practica_wicked_pdf
 
 * Link de OmniAuth:
 https://github.com/CamiloRueda/EjemploOmniAuth.git
